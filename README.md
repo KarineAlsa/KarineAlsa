@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi :)
 
+I'm Karine, there's nothing to see here right now, come back later :)
 <!--
 **KarineAlsa/KarineAlsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
